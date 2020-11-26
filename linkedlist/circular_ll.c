@@ -1,3 +1,6 @@
+/*
+ * Author : Nilesh Waghmare <nileshwaghmare3081@gmail.com>
+ */
 #include<stdio.h>
 #include<stdlib.h>
 #include<stdint.h>
